@@ -1,6 +1,8 @@
 streamlit
 deepface==0.0.79
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 tensorflow==2.10.0
 matplotlib
 pandas
+numpy==1.23.5  # Compatible with TF 2.10
+keras==2.10.0  # Match TF version
