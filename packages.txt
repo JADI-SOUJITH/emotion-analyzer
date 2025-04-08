@@ -1,1 +1,3 @@
 libgl1-mesa-glx
+libblas3
+liblapack3
