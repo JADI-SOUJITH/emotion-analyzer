@@ -1,4 +1,4 @@
 streamlit
-opencv-python-headless
-deepface
+opencv-python-headless==4.5.5.64
+deepface==0.0.79
 matplotlib
